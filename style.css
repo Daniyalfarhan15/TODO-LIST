@@ -1,0 +1,21 @@
+
+.hide {
+    display: none;
+}
+
+button {
+    border-radius: 10px;
+    
+}
+.edit {
+    color: green;
+}
+
+.delete {
+    color: red;
+}
+
+.add:hover {
+    border: 2px dotted green;
+    background-color: rgb(194, 240, 149);
+}
